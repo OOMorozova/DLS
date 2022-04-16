@@ -1,1 +1,1 @@
-# [Deep Learning Scool](https://www.dlschool.org/base-track)
+# [Deep Learning Scool](https://en.dlschool.org/base-track)
